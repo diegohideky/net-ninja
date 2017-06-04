@@ -1,0 +1,11 @@
+{
+  "name": "Net Ninja",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "angular": "^1.6.4",
+    "materialize": "^0.98.2",
+    "components-font-awesome": "^4.7.0",
+    "angular-route": "^1.6.4"
+  }
+}
